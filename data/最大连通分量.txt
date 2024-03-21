@@ -1,0 +1,48 @@
+Alpha: 0.0 Max Connected Component Size: 108 Iterations: 2
+Alpha: 0.05263157894736842 Max Connected Component Size: 610 Iterations: 6
+Alpha: 0.10526315789473684 Max Connected Component Size: 465 Iterations: 7
+Alpha: 0.15789473684210525 Max Connected Component Size: 281 Iterations: 6
+Alpha: 0.21052631578947367 Max Connected Component Size: 1343 Iterations: 7
+Alpha: 0.2631578947368421 Max Connected Component Size: 1956 Iterations: 10
+Alpha: 0.3157894736842105 Max Connected Component Size: 2456 Iterations: 14
+Alpha: 0.3684210526315789 Max Connected Component Size: 3371 Iterations: 14
+Alpha: 0.42105263157894735 Max Connected Component Size: 3981 Iterations: 12
+Alpha: 0.47368421052631576 Max Connected Component Size: 4829 Iterations: 12
+Alpha: 0.5263157894736842 Max Connected Component Size: 5179 Iterations: 10
+Alpha: 0.5789473684210527 Max Connected Component Size: 4684 Iterations: 10
+Alpha: 0.631578947368421 Max Connected Component Size: 4912 Iterations: 11
+Alpha: 0.6842105263157894 Max Connected Component Size: 4912 Iterations: 11
+Alpha: 0.7368421052631579 Max Connected Component Size: 5426 Iterations: 10
+Alpha: 0.7894736842105263 Max Connected Component Size: 5588 Iterations: 13
+Alpha: 0.8421052631578947 Max Connected Component Size: 5646 Iterations: 10
+Alpha: 0.894736842105263 Max Connected Component Size: 5431 Iterations: 11
+Alpha: 0.9473684210526315 Max Connected Component Size: 5378 Iterations: 12
+Alpha: 1.0 Max Connected Component Size: 5566 Iterations: 10
+
+
+
+
+Alpha: 0.26 Max Connected Component Size: 1956 Iterations: 10
+Alpha: 0.27 Max Connected Component Size: 2849 Iterations: 12
+Alpha: 0.28 Max Connected Component Size: 2917 Iterations: 12
+Alpha: 0.29000000000000004 Max Connected Component Size: 2466 Iterations: 13
+Alpha: 0.30000000000000004 Max Connected Component Size: 2418 Iterations: 13
+Alpha: 0.31000000000000005 Max Connected Component Size: 2412 Iterations: 14
+Alpha: 0.32000000000000006 Max Connected Component Size: 2456 Iterations: 14
+Alpha: 0.33000000000000007 Max Connected Component Size: 2539 Iterations: 14
+Alpha: 0.3400000000000001 Max Connected Component Size: 2552 Iterations: 14
+Alpha: 0.3500000000000001 Max Connected Component Size: 2634 Iterations: 13
+Alpha: 0.3600000000000001 Max Connected Component Size: 2771 Iterations: 12
+Alpha: 0.3700000000000001 Max Connected Component Size: 3358 Iterations: 14
+Alpha: 0.3800000000000001 Max Connected Component Size: 3164 Iterations: 15
+Alpha: 0.3900000000000001 Max Connected Component Size: 2901 Iterations: 15
+Alpha: 0.40000000000000013 Max Connected Component Size: 2922 Iterations: 15
+Alpha: 0.41000000000000014 Max Connected Component Size: 3052 Iterations: 16
+
+
+Alpha: 0.41 Max Connected Component Size: 3052 Iterations: 16
+Alpha: 0.415 Max Connected Component Size: 3352 Iterations: 18
+Alpha: 0.42 Max Connected Component Size: 3354 Iterations: 19
+Alpha: 0.425 Max Connected Component Size: 3991 Iterations: 12
+Alpha: 0.43 Max Connected Component Size: 3998 Iterations: 11
+Alpha: 0.435 Max Connected Component Size: 3914 Iterations: 12
